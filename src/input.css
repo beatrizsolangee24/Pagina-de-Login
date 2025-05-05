@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bolo: #f2afd4;
+  --color-first-purple: #3b2045;
+  --color-second-pink: #502d44;
+  --color-label: #c8c8c8;
+  --color-button: #3c2045;
+  --color-hoverB: #412445;
+}
